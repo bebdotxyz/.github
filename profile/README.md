@@ -1,4 +1,4 @@
-# **BΞB: The Web3 Community Protocol**
+# **BΞB: The NFT Community Protocol**
 
 📚 Join the developer waitlist on [devs.beb.xyz](https://dev.beb.xyz)
 
