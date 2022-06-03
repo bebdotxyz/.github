@@ -2,6 +2,8 @@
 
 📚 Join the developer waitlist on [dev.beb.xyz](https://dev.beb.xyz)
 
+📖 Read the protocol docs on [docs.beb.xyz](https://docs.beb.xyz)
+
 👩‍💻 Participate in the [BΞB community](https://beb.xyz)
 
 🐦 Follow [@bebdotxyz](https://twitter.com/bebdotxyz) on Twitter
