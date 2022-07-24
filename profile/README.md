@@ -1,4 +1,4 @@
-# **BΞB Social: The First Open Web3 Social Protocol For Communities**
+# **BΞB Social
 
 📖 Read the protocol docs on [docs.beb.xyz](https://docs.beb.xyz)
 
