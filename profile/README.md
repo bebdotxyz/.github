@@ -1,4 +1,4 @@
-# **BΞB: The NFT Community Protocol**
+# **BΞB Social: The First Open Web3 Social Protocol For Communities**
 
 📖 Read the protocol docs on [docs.beb.xyz](https://docs.beb.xyz)
 
