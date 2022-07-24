@@ -1,7 +1,5 @@
 # **BΞB: The NFT Community Protocol**
 
-📚 Join the developer waitlist on [dev.beb.xyz](https://dev.beb.xyz)
-
 📖 Read the protocol docs on [docs.beb.xyz](https://docs.beb.xyz)
 
 🔨 Build using our SDK on [sdk.beb.xyz](https://sdk.beb.xyz)
