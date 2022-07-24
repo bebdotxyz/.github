@@ -1,4 +1,4 @@
-# **BΞB Social
+# BΞB Social
 
 📖 Read the protocol docs on [docs.beb.xyz](https://docs.beb.xyz)
 
