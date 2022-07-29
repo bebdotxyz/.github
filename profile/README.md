@@ -4,6 +4,6 @@
 
 🔨 Build using our SDK on [sdk.beb.xyz](https://sdk.beb.xyz)
 
-👩‍💻 Participate in the [BΞB community](https://beb.xyz)
+👩‍💻 Participate in the [BEB community](https://beb.xyz)
 
 🐦 Follow [@bebdotxyz](https://twitter.com/bebdotxyz) on Twitter
